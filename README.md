@@ -35,5 +35,5 @@ To setup virtual environment:
 
 
 
-**Knowledge/Learning Source: Book: Handson machine learning with scikit learn and tensorflow** (Must Read) 
+**Source: Book-Handson machine learning with scikit learn and tensorflow (Chapter 2)** (Must Read) 
  
