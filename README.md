@@ -21,5 +21,14 @@ This python file uses housing price prediction example to explain various concep
 
 For Dependencies/Environment information ==> requirement.txt (pip -r requirement.txt)
 
+
+To setup virtual environment:
+
+    python -m venv env
+    source env\bin\activate
+    pip install -r requirement.txt
+
+
+
 Knowledge/Learning Source: Handson machine learning with scikit learn and tensorflow 
  
