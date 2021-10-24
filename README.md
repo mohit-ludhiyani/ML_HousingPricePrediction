@@ -19,6 +19,7 @@ This python file uses housing price prediction example to explain various concep
 10. Evaluate our System on the Test Set
 
 
+Some images from project:
 ![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/scatter.png)
 ![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/data_analysis.png)
 
@@ -34,5 +35,5 @@ To setup virtual environment:
 
 
 
-Knowledge/Learning Source: Handson machine learning with scikit learn and tensorflow 
+**Knowledge/Learning Source: Book: Handson machine learning with scikit learn and tensorflow** (Must Read) 
  
