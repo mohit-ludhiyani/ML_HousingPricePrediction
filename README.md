@@ -19,6 +19,10 @@ This python file uses housing price prediction example to explain various concep
 10. Evaluate our System on the Test Set
 
 
+![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/scatter.png)
+![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/dataanalysis.png)
+
+
 For Dependencies/Environment information ==> requirement.txt (pip -r requirement.txt)
 
 
