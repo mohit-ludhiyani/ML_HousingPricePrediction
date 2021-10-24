@@ -19,5 +19,7 @@ This python file uses housing price prediction example to explain various concep
 10. Evaluate our System on the Test Set
 
 
+For Dependencies/Environment information ==> requirements.txt (pip -r requirements.txt)
+
 Knowledge/Learning Source: Handson machine learning with scikit learn and tensorflow 
  
