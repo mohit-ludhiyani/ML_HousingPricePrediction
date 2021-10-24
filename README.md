@@ -20,7 +20,7 @@ This python file uses housing price prediction example to explain various concep
 
 
 ![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/scatter.png)
-![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/dataanalysis.png)
+![alt text](https://raw.githubusercontent.com/mohit-ludhiyani/ML_HousingPricePrediction/main/data_analysis.png)
 
 
 For Dependencies/Environment information ==> requirement.txt (pip -r requirement.txt)
